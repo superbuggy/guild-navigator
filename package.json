@@ -1,0 +1,19 @@
+{
+  "name": "guild_navigator",
+  "version": "1.0.0",
+  "description": "Compiles bands/music/composers of interest in a central place.   - Links to discogs, allmusic, wikipedia, progarchives, etc   - Embeds youtube search results   - Scrapes for encyclopedia metallum, progarchives, rateyourmusic",
+  "main": "metallum_scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "hbs": "^4.0.0",
+    "request": "^2.74.0"
+  }
+}
