@@ -1,3 +1,9 @@
+# Non-Functional Web Scraping Project
+
+shrug ascii art:
+
+## Intended ***Not Actual*** Feature-Set
+
 Compiles bands/music/composers of interest in a central place.
   - Links to discogs, allmusic, wikipedia, progarchives, etc
   - Embeds youtube search results
